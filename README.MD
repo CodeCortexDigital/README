@@ -1,17 +1,20 @@
-# Codecortex (Digital Solutions)
+<p align="center">
+  <img src="assets/logo.png" alt="Codecortex Logo" width="150"/>
+</p>
 
-![Codecortex Logo](assets/logo.png)
+<h1 align="center">CodecortexPK</h1>
+<p align="center"><em>Full-stack software solutions & innovative digital products</em></p>
 
-*Full-stack software solutions & innovative digital products*
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![GitHub Organization](https://img.shields.io/badge/GitHub-CodecortexPK-black.svg)](https://github.com/codecortexpk)
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/codecortexpk"><img src="https://img.shields.io/badge/GitHub-CodecortexPK-black.svg" alt="GitHub Organization"></a>
+</p>
 
 ---
 
 ## 🌟 About Us
-Codecortex (Digial Solutions) is a professional software house delivering **high-quality web, mobile, and backend solutions**.  
-We specialize in creating scalable, secure, and maintainable applications for businesses worldwide.  
+CodecortexPK is a professional software house delivering **high-quality web, mobile, and backend solutions**.  
+We specialize in creating **scalable, secure, and maintainable applications** for businesses worldwide.  
 Our team focuses on **modern technologies**, clean code, and best practices to ensure client success.
 
 ---
@@ -20,7 +23,7 @@ Our team focuses on **modern technologies**, clean code, and best practices to e
 - Full-stack application development (React, Node.js, Flutter)  
 - Backend APIs & microservices architecture  
 - Mobile apps for iOS and Android  
-- DevOps automation, CI/CD pipelines  
+- DevOps automation & CI/CD pipelines  
 - Secure, maintainable, and well-documented code  
 - Open-source utilities and reusable templates
 
@@ -30,18 +33,4 @@ Our team focuses on **modern technologies**, clean code, and best practices to e
 **Frontend:** React, Vue, Flutter  
 **Backend:** Node.js, NestJS, Python, Django  
 **Database:** PostgreSQL, MongoDB, MySQL  
-**DevOps / CI:** GitHub Actions, Docker, Kubernetes  
-**Tools:** Git, Jira, ClickUp, VS Code  
-
----
-
-## 📸 Screenshots / Demo
-![Sample Dashboard](assets/screenshot.png)  
-*(Replace with your own images or screenshots of projects, apps, or dashboards)*
-
----
-
-## 🚀 Getting Started
-1. Clone the repo:
-```bash
-git clone https://github.com/codecortexpk/README.git
+**DevOps / CI:** GitHub Actions, Dock
